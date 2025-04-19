@@ -1,4 +1,4 @@
-# Feature Engineering and Predictive Modelling
+# NBA Player Retention Prediction
 
 This project focuses on feature engineering and predictive modelling using NBA player data. The goal is to predict whether a player will remain in the league for 5 years (`target_5yrs`) based on various performance metrics.
 
@@ -38,7 +38,7 @@ Notebooks/
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd Feature_engineering_python
+   cd NBA_Player_Retention_Prediction
    ```
 
 2. Install required libraries:
