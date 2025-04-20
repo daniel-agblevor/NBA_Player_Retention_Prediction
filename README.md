@@ -53,16 +53,16 @@ Notebooks/
 ## Results
 
 - The first Logistic Regression model achieved the following metrics:
-  - Accuracy: ~
-  - Precision: ~
-  - Recall: ~
-  - F1 Score: ~
+  - Accuracy: 71%
+  - Precision: 75%
+  - Recall: 80%
+  - F1 Score: 78%
 
 - The second Logistic Regression model (with selected features) achieved:
-  - Accuracy: ~
-  - Precision: ~
-  - Recall: ~
-  - F1 Score: ~
+  - Accuracy: 68%
+  - Precision: 71%
+  - Recall: 81%
+  - F1 Score: 76%
 
 ## Future Work
 
